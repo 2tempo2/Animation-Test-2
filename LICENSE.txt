@@ -1,0 +1,9 @@
+Copyright 2024 Tyler William Walsh
+
+This software is licensed under the following conditions:
+
+1. You are free to use, copy, modify, and distribute this software, **but you must provide appropriate credit** to the author.
+2. **You must obtain explicit permission** from the author before using this software for commercial purposes.
+3. You may not use, copy, modify, or distribute this software in any manner not explicitly allowed by this license.
+
+For permission requests, contact tyler5walsh5@gmail.com
